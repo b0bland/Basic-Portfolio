@@ -67,13 +67,15 @@ h1 {
 }
 
 .info {
-    float: left;
+    display: inline-block;
     width: 960px;
     height: 600px;
-    margin-left: 12%;
-    margin-top: 50px;
+    margin: 50px auto;
     background: #ffffff;
     border: 1px solid lightgray;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 h2 {
