@@ -22,7 +22,7 @@ h1 {
     font-weight: bold;
     color: #ffffff;
     padding: 30px;
-    margin-left: 400px;
+    margin-left: 12%;
 }
 
 .about {
@@ -32,7 +32,7 @@ h1 {
     font-size: 20px;
     float: left;
     position: relative;
-    left: 500px;
+    left: 25%;
     top: 38px;
     border-right: 1px solid lightgray;
 }
@@ -44,7 +44,7 @@ h1 {
     font-size: 20px;
     float: left;
     position: relative;
-    left: 530px;
+    left: 27.5%;
     top: 38px;
     border-right: 1px solid lightgray;
 }
@@ -56,22 +56,21 @@ h1 {
     font-size: 20px;
     float: left;
     position: relative;
-    left: 557px;
+    left: 30.5%;
     top: 38px;
 }
 
 .infobackground {
     background-image: url('../abstract-q-g-1920-1920-6.jpg');
     height: 1100px;
-    width: 1920px;
+    width: 100%;
 }
 
 .info {
     float: left;
     width: 960px;
     height: 600px;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 12%;
     margin-top: 50px;
     background: #ffffff;
     border: 1px solid lightgray;
