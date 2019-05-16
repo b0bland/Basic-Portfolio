@@ -92,16 +92,12 @@ h2 {
 #mypic {
     border: 1px solid rgb(151, 137, 137);
     float: left;
-    position: relative;
-    top: 85px;
-    left: 50px;
-    margin: 0 15px 15px 0;
+    margin: 90px 15px 15px 50px;
 }
 
 main {
     line-height: 2.0;
-    width: 100%;
+    width: 90%;
     height: 200px;
-    position: relative;
-    top: 85px;
+    margin: 90px 0px 15px 50px;
 }
