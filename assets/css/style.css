@@ -33,15 +33,33 @@ h1 {
 
 .about {
     color: #777777;
+    width: 70px;
+    height: 30px;
     font-size: 20px;
-    margin-top: 38px;
-    margin-left: 1100px;
-    margin-right:
+    float: left;
+    position: relative;
+    left: 500px;
+    top: 38px;
 }
 
 .portfolio {
     color: #777777;
+    width: 70px;
+    height: 30px;
     font-size: 20px;
-    margin-top: 38px;
     float: left;
+    position: relative;
+    left: 540px;
+    top: 38px;
+}
+
+.contact {
+    color: #777777;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+    float: left;
+    position: relative;
+    left: 590px;
+    top: 38px;
 }
