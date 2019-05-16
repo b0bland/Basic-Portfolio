@@ -60,6 +60,12 @@ h1 {
     top: 38px;
 }
 
+.infobackground {
+    background-image: url('../abstract-q-g-1920-1920-6.jpg');
+    height: 1100px;
+    width: 1920px;
+}
+
 .info {
     float: left;
     width: 960px;
